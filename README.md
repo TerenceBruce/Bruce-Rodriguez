@@ -4,6 +4,8 @@ npm install --global yarn
 
 yarn install
 
+yarn run dev
+
 https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
 https://vitejs.dev/guide/
